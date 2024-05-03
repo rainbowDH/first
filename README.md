@@ -4,5 +4,5 @@
 -리스트1
 -리스트2
 
-[naver](http://www.naver.com)
+[네이버](http://www.naver.com)
 This is the first repository of rainbowDH
